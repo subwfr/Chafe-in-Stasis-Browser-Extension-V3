@@ -1,3 +1,48 @@
+Welcome to the Chafe in Stasis browser extension. 
+this tool gives you the ability to YTP-ise any video or audio inside of your browser. 
+
+There is no networking, and no data sharing, so you are entirely safe. this is a simple webDSP audio processor that adds effects.
+
+
+<img width="469" height="602" alt="image" src="https://github.com/user-attachments/assets/e37e52b9-af81-4ca1-bc66-358916ded0da" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Installation
 
 The steps to install this extension are not too complex.
