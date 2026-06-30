@@ -17,7 +17,7 @@ Steps 2–4 differ slightly between browsers. Pick your section below.
 ### Brave
 
 **1. Open the extensions menu (top right).**
-<img width="537" alt="Brave extensions menu" src="https://github.com/user-attachments/assets/33fd729a-5396-4fca-ad06-09b27d719308" />
+<p><img width="537" alt="Brave extensions panel" src="https://github.com/user-attachments/assets/33fd729a-5396-4fca-ad06-09b27d719308" /></p>
 
 **2. Enable Developer mode (top right of the extensions page).**
 
