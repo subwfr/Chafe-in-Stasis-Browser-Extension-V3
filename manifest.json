@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "ChafeInStasis v2",
+  "version": "1.0",
+  "permissions": ["tabCapture", "offscreen", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
