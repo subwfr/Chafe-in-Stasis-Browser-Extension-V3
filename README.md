@@ -9,9 +9,20 @@ There is no networking, and no data sharing, so you are entirely safe. this is a
 
 
 
+FEATURES:
 
-
-
+- Reverb with decay and space controls.
+- Low-pass filter with adjustable slope.
+- Vibrato with randomiser. (sweet spot around 3hz)
+- Bitcrusher with adjustable bit depth.
+- Sample-rate reduction down to 100hz.
+- Waveshaper with fold and drive.
+- Momentary reverse button.
+- Momentary stutter button.
+- Drag-to-reorder effects rack.
+- Per-module bypass switches.
+- Save and load your own presets.
+- Master wet/dry mix and output gain.
 
 
 
