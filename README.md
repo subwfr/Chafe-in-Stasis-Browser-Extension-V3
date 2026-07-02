@@ -28,26 +28,9 @@ FEATURES:
 
 
 
+
+
 https://youtu.be/Grszdy2wu_Q
-
-
-
-[![Tutorial]([https://youtube.com](https://youtu.be/Grszdy2wu_Q))](https://youtu.be/Grszdy2wu_Q)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
